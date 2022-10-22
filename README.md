@@ -1,4 +1,4 @@
-# mi_card
+# MiCard
 
 A Single Screen Personal Business Card App
 
